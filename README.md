@@ -1,5 +1,5 @@
 # BayesGroupTesting
-This repository contains code which implements the methodology described 'Bayesian Analysis of Continuous Outcome Group Testing Data in the Presense of Measurement Error' by Self, Mokalled and McMahan.
+This repository contains code which implements the methodology described 'Capturing the Pool Dilution Effect in Group Testing Regression: A Bayesian Approach' by Self, Mokalled and McMahan.
 
 Individual Testing simulates data under individual testing and applies the Bayesian regression methodology described in the paper.
 
